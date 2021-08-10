@@ -1,4 +1,4 @@
-### Olá seja bem vindo ao GitHub  👋
+### Olá seja bem vindo ao meu GitHub  👋
 
 - 📩 Contatos:  anajuliasfernandes109@gmail.com/ fernandes.ana30@escola.pr.gov.br
 - 📒 Tenho 15 anos ,  estou no primeiro ano do ensino médio. Sou cursada em Lógica de programação, HTML5 e CSS3, Flexbox e Pacote Office 2019-Do Basico ao Avançado com VBA.
