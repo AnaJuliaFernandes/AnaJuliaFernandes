@@ -7,6 +7,7 @@
 - ⭐Flexbox;
 - ⭐Layout Responsivo;
 - ⭐Pacote Office 2019-Do Básico ao Avançado com VBA.
+- ⭐CSS Grid
 
 <div>
   <a href="https://github.com/AnaJuliaFernandes">
