@@ -4,9 +4,9 @@
 - 📒 Tenho 15 anos, estou no primeiro ano do ensino médio. Atualmente cursando alguns cursos na Alura:
 - 💻Lógica de programação;
 - 💻HTML5 e CSS3;
-- Flexbox;
-- Layout Responsivo;
-- CSS Grid;
+- 💻Flexbox;
+- 💻Layout Responsivo;
+- 💻CSS Grid;
 - Pacote Office 2019-Do Básico ao Avançado com VBA.
 
 <div>
