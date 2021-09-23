@@ -1,4 +1,4 @@
-### Olá seja bem vindo ao meu GitHub  👋
+## Olá seja bem vindo ao meu GitHub  👋
 
 - 📩 Contatos: anajuliasfernandes109@gmail.com/ fernandes.ana30@escola.pr.gov.br
 - 📒 Tenho 15 anos, estou no primeiro ano do ensino médio. Atualmente cursando alguns cursos na Alura:
@@ -9,19 +9,19 @@
 - 💻CSS Grid;
 - Pacote Office 2019-Do Básico ao Avançado com VBA.
 
+### Atualmente estudando:
+  ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Github Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Github css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+  ### Contatos possiveis:
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/anaju_fernandes1/)](https://www.instagram.com/anaju_fernandes1/)
+  [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/AnaJuliaFernandes)](https://github.com/AnaJuliaFernandes)
+
 <div>
   <a href="https://github.com/AnaJuliaFernandes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AnaJuliaFernandes&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaJuliaFernandes&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="AnaJu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AnaJu-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="AnaJu-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AnaJu-Word" height="30" width="40" src="https://img.icons8.com/metro/26/4a90e2/ms-word.png"/>
-  <img align="center" alt="AnaJu-Exel" height="30" width="40" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
-  <img align="center" alt="AnaJu-Point" height="30" width="40" src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/>
-</div>
-    
+  
 ##
