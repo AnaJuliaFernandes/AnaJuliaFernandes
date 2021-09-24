@@ -1,6 +1,10 @@
 ## Olá seja bem vindo ao meu GitHub  👋
 
-- 📒 Tenho 15 anos, estou no primeiro ano do ensino médio. Atualmente cursando alguns cursos na Alura:
+### Quem sou
+
+<p>Meu nome é Ana Julia, tenho 15 anos e estou no primeiro ano do ensino médio. A programação entrou na minha vida através da Alura com o curso de javascript e a partir dai continuei fazendo vários outros cursos e aos poucos fui me identificando e acabei criando um amor pela programação, e a cada dia procuro engressar mais no mundo da programação e sempre em busca de mais um desafio.</p>
+
+### :books: Cursos realizados
 - 💻Lógica de programação;
 - 💻HTML5 e CSS3;
 - 💻Flexbox;
