@@ -9,7 +9,8 @@
 - 💻HTML5 e CSS3;
 - 💻Flexbox;
 - 💻Layout Responsivo;
-- 💻CSS Grid;
+- 💻CSS Grid
+- 💻Bootstrap
 - Pacote Office 2019-Do Básico ao Avançado com VBA.
 
 ### Atualmente estudando:
